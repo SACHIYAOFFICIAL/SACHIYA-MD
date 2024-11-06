@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="130" width="100%">
 
 <p align="center">
- <img src="https://i.imgur.com/2RtQBgT.jpeg"  width="450px">
+ <img src="https://i.imgur.com/AYrYxhX.jpeg"  width="450px">
 
 
 
