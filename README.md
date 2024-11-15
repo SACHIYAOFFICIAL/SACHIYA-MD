@@ -2,10 +2,10 @@
 <div align="center">
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＳＡＣＨＩＹＡ+ＭＤ+)](https://git.io/typing-svg)
-<img src="https://i.imgur.com/oF9eimA.jpeg" height="130" width="100%">
+<img src="" height="130" width="100%">
 
 <p align="center">
- <img src="https://i.imgur.com/AYrYxhX.jpeg"  width="450px">
+ <img src="[https://i.imgur.com/AYrYxhX.jpeg](https://i.imgur.com/oF9eimA.jpeg)"  width="450px">
 
 
 
